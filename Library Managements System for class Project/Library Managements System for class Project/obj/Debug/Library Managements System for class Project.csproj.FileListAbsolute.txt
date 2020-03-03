@@ -1,0 +1,25 @@
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\bin\Debug\Library Managements System for class Project.exe.config
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\bin\Debug\Library Managements System for class Project.exe
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\bin\Debug\Library Managements System for class Project.pdb
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library Managements System for class Project.csprojAssemblyReference.cache
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.AddBook.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.addUser.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.AdminHome.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.AdminLogin.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.categories.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.Form1.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.IssueBook.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.Issued_Books.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.Properties.Resources.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.returnBook.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.returnSpecificBook.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.Search_Books.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.UserLogin.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.user_Hume.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.user_Issued_Books.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library Managements System for class Project.csproj.GenerateResource.cache
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library Managements System for class Project.csproj.CoreCompileInputs.cache
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library Managements System for class Project.exe
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library Managements System for class Project.pdb
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.EditUser.resources
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\obj\Debug\Library_Managements_System_for_class_Project.EditBook.resources

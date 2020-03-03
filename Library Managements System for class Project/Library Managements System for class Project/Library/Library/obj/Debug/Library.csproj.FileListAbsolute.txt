@@ -1,0 +1,7 @@
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\bin\Debug\Library.dll.config
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\bin\Debug\Library.dll
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\bin\Debug\Library.pdb
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\obj\Debug\Library.dll
+E:\Library Mangement System\Library Managements System for class Project\Library Managements System for class Project\Library\Library\obj\Debug\Library.pdb

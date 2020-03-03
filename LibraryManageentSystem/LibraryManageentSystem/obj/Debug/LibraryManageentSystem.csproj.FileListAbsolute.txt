@@ -1,0 +1,14 @@
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.dll.config
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.dll
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.pdb
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.csprojAssemblyReference.cache
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.dll
+C:\Users\Haseeb virk\source\repos\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.pdb
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.dll.config
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.dll
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\bin\LibraryManageentSystem.pdb
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.csprojAssemblyReference.cache
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.csproj.CoreCompileInputs.cache
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.dll
+E:\Library Mangement System\LibraryManageentSystem\LibraryManageentSystem\obj\Debug\LibraryManageentSystem.pdb
